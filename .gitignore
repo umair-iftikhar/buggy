@@ -1,3 +1,8 @@
+
+
+# Firebase files
+
 firebase.js
 firebase-debug.log
 .firebase
+.firebaserc
